@@ -1,3 +1,54 @@
+.grid-cell-7 {
+  background-color: pink;
+}
+
+.grid-cell-6 {
+  background-color: purple;
+}
+
+.grid-cell-5 {
+  background-color: cyan;
+}
+
+.grid-cell-4 {
+  background-color: blue;
+}
+
+.grid-cell-3 {
+  background-color: black;
+}
+
+.grid-cell-2 {
+  background-color: green;
+}
+
+.grid-cell-1 {
+  background-color: red;
+}
+
+.grid-cell-0 {
+  background-color: white;
+}
+
+.grid-cell {
+  height: 25px;
+  width: 25px;
+  text-align: center;
+}
+
+.grid-row {
+  display: flex;
+}
+
+.game-screen {
+  width: 100px;
+}
+
+
+
+
+
+
 .App {
   text-align: center;
 }
